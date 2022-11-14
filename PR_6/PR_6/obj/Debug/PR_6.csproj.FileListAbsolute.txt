@@ -1,0 +1,3 @@
+C:\Users\Arthur\Desktop\C#\PR_6\PR_6\obj\Debug\PR_6.csproj.AssemblyReference.cache
+C:\Users\Arthur\Desktop\C#\PR_6\PR_6\obj\Debug\PR_6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arthur\Desktop\C#\PR_6\PR_6\obj\Debug\PR_6.csproj.CoreCompileInputs.cache
